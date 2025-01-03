@@ -2,8 +2,8 @@
 # python -m venv lungcanc
 # lungcanc\Scripts\activate
 # pip install kaggle
-# kaggle competitions download -c vinbigdata-chest-xray-abnormalities-detection
-#
+ #kaggle competitions download -c vinbigdata-chest-xray-abnormalities-detection
+
 #import os
 #import zipfile
 #os.environ['KAGGLE_CONFIG_DIR'] = os.getcwd()

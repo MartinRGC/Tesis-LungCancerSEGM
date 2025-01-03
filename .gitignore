@@ -1,0 +1,3 @@
+# Ignorar las carpetas de imágenes DICOM
+vinbigdata_chest_xray/train/
+vinbigdata_chest_xray/test/
